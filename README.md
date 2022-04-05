@@ -28,7 +28,7 @@
 <br><br> <p align="center"> Vibing to : 🎧  </strong></p>
 <div align="center">
  
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/22oczbfweerc5tq7eedfy6lky) <br>
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=22oczbfweerc5tq7eedfy6lky&count=3&width=600) <br>
  
 </div>
 <h2 align="center">
