@@ -1,8 +1,7 @@
-<!--  https://ritik307.github.io/portfolio/  -->
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/rmschick99/rmschick99/images/banner.png" />
+<img src="img src="https://github.com/rmschick99/rmschick99/blob/main/images/banner.png"" />
 
 <p align="center">
  
