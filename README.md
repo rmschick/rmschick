@@ -55,7 +55,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rmschick99&repo=GoLang-Showcase&theme=radical)](https://github.com/rmschick99/GoLang-Showcase)
  
 </div>
-<br><br>
+<br>
 <div align = "center">
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rmschick99&repo=fetchBackendExercise&theme=radical)](https://github.com/rmschick99/fetchBackendExercise)
