@@ -1,4 +1,18 @@
-[![MasterHead](G:\Photos\wallpapersden.com_synthwave-4k_2560x1440.jpg)](github.com/rmschick99)
+<!--  https://ritik307.github.io/portfolio/  -->
+<p align="center">
+ 
+</p align="center">
+<img src="https://github.com/rmschick99/rmschick99/images/banner.png" />
+
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/rmschick99/rmschick99"/> 
+ <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/repos/rmschick99"/>
+ <img src="https://badges.pufler.dev/commits/monthly/rmschick99" />
+
+</p>
+
 
 ### Hi there 👋
 
