@@ -52,13 +52,13 @@
 <div align = "center">
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rmschick99&repo=CYDERES-Challenge&theme=radical)](https://github.com/rmschick99/CYDERES-Challenge)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rmschick99&repo=GoLang-Showcase&theme=radical)](https://github.com/rmschick99/GoLang-Showcase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rmschick99&repo=fetchBackendExercise&theme=radical)](https://github.com/rmschick99/fetchBackendExercise)
  
 </div>
 <br>
 <div align = "center">
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rmschick99&repo=fetchBackendExercise&theme=radical)](https://github.com/rmschick99/fetchBackendExercise)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rmschick99&repo=GoLang-Showcase&theme=radical)](https://github.com/rmschick99/GoLang-Showcase)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rmschick99&repo=Cpp-Showcase&theme=radical)](https://github.com/rmschick99/Cpp-Showcase)
  
 </div>
