@@ -39,11 +39,11 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=rmschick99&count_private=true&hide=stars,issues&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rmschick99&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rmschick99&count_private=true&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rmschick99&&count_private=trueshow_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rmschick99&&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
