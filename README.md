@@ -43,11 +43,11 @@
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rmschick99&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rmschick99&&count_private=trueshow_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=rmschick99&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=rmschick99&count_private=true&theme=redical">
 </p>
 <div align = "center">
  
