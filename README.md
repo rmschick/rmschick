@@ -3,16 +3,6 @@
 </p align="center">
 <img src="https://github.com/rmschick99/rmschick99/blob/main/images/banner.png" />
 
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/rmschick99/rmschick99"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/rmschick99"/>
- <img src="https://badges.pufler.dev/commits/monthly/rmschick99" />
-
-</p>
-
-
 <h2 align="center">Technology Stack <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="75"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"/>
@@ -22,7 +12,6 @@
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
 <br><br> <p align="center"> Vibing to : 🎧  </strong></p>
@@ -39,7 +28,6 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=rmschick99&count_private=true&hide=stars,issues&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rmschick99&count_private=true&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align = "center">
