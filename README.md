@@ -13,11 +13,6 @@
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-
-<br><br> <p align="center"> Vibing to : 🎧  </strong></p>
-<div align="center">
- 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=22oczbfweerc5tq7eedfy6lky&count=3&width=600) <br>
  
 </div>
 <h2 align="center">
