@@ -1,8 +1,3 @@
-<p align="center">
- 
-</p align="center">
-<img src="https://github.com/rmschick99/rmschick99/blob/main/images/banner.png" />
-
 <h2 align="center">Technology Stack <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="75"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"/>
@@ -22,16 +17,9 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=rmschick99&count_private=true&hide=stars,issues&show_icons=true&theme=radical&line_height=27">
-</p>
-
-<p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rmschick99&&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=rmschick99&count_private=true&theme=redical">
-</p>
 <div align = "center">
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rmschick99&repo=CYDERES-Challenge&theme=radical)](https://github.com/rmschick99/CYDERES-Challenge)
