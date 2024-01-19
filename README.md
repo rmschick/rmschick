@@ -1,4 +1,12 @@
-<h2 align="center">Technology Stack <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="75"></h2>
+<div align = "center">
+<h2>Ryan Schick</h2>
+ 
+[![Linkedin: ryanschick](https://img.shields.io/badge/-ryanschick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryanschick/)](https://www.linkedin.com/in/ryanschick/)
+[![GitHub rmschick](https://img.shields.io/github/followers/rmschick?label=follow&style=social)](https://github.com/rmschick)
+
+</div>
+
+<h2 align="center">Technology Stack</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"/>
