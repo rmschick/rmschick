@@ -47,8 +47,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmschick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmschick&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rmschick&theme=tokyonight" height="180em" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rmschick&theme=tokyonight" height="180em" alt="Top Languages"/>
 
 </div>
 
@@ -70,9 +70,43 @@
 
 <div align="center">
 
-[![fishtech-challenge](https://github-readme-stats.vercel.app/api/pin/?username=rmschick&repo=fishtech-challenge&theme=tokyonight&hide_border=true)](https://github.com/rmschick/fishtech-challenge)
-[![fetch-challenge](https://github-readme-stats.vercel.app/api/pin/?username=rmschick&repo=fetch-challenge&theme=tokyonight&hide_border=true)](https://github.com/rmschick/fetch-challenge)
-[![GoLang-Showcase](https://github-readme-stats.vercel.app/api/pin/?username=rmschick&repo=GoLang-Showcase&theme=tokyonight&hide_border=true)](https://github.com/rmschick/GoLang-Showcase)
-[![kube8-operator](https://github-readme-stats.vercel.app/api/pin/?username=rmschick&repo=kube8-operator&theme=tokyonight&hide_border=true)](https://github.com/rmschick/kube8-operator)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/rmschick/fishtech-challenge">
+        <b>fishtech-challenge</b>
+      </a><br/>
+      <img src="https://img.shields.io/github/stars/rmschick/fishtech-challenge?style=flat-square&color=00ADD8"/>
+      <img src="https://img.shields.io/github/forks/rmschick/fishtech-challenge?style=flat-square&color=326CE5"/>
+      <img src="https://img.shields.io/github/languages/top/rmschick/fishtech-challenge?style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/rmschick/fetch-challenge">
+        <b>fetch-challenge</b>
+      </a><br/>
+      <img src="https://img.shields.io/github/stars/rmschick/fetch-challenge?style=flat-square&color=00ADD8"/>
+      <img src="https://img.shields.io/github/forks/rmschick/fetch-challenge?style=flat-square&color=326CE5"/>
+      <img src="https://img.shields.io/github/languages/top/rmschick/fetch-challenge?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/rmschick/GoLang-Showcase">
+        <b>GoLang-Showcase</b>
+      </a><br/>
+      <img src="https://img.shields.io/github/stars/rmschick/GoLang-Showcase?style=flat-square&color=00ADD8"/>
+      <img src="https://img.shields.io/github/forks/rmschick/GoLang-Showcase?style=flat-square&color=326CE5"/>
+      <img src="https://img.shields.io/github/languages/top/rmschick/GoLang-Showcase?style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/rmschick/kube8-operator">
+        <b>kube8-operator</b>
+      </a><br/>
+      <img src="https://img.shields.io/github/stars/rmschick/kube8-operator?style=flat-square&color=00ADD8"/>
+      <img src="https://img.shields.io/github/forks/rmschick/kube8-operator?style=flat-square&color=326CE5"/>
+      <img src="https://img.shields.io/github/languages/top/rmschick/kube8-operator?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 </div>
