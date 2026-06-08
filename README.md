@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="./images/banner.png" alt="Ryan Schick" width="100%"/>
-
-<br/>
+<h1>Ryan Schick</h1>
+<h3>Software Engineer II</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Backend+%26+Platform+Engineer;Go+%7C+Kubernetes+%7C+Cloud+Native;Building+scalable+distributed+systems" alt="Typing SVG" />
 
