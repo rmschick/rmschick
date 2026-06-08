@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./images/banner.png" alt="Ryan Schick" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:326CE5&height=220&section=header&text=Ryan%20Schick&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20II&descAlignY=58&descSize=22" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Backend+%26+Platform+Engineer;Go+%7C+Kubernetes+%7C+Cloud+Native;Building+scalable+distributed+systems" alt="Typing SVG" />
 
@@ -13,8 +11,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=rmschick&style=for-the-badge&color=00ADD8&label=Profile+Views)](https://github.com/rmschick)
 
 </div>
-
----
 
 <h2 align="center">Tech Stack</h2>
 
@@ -110,3 +106,5 @@
 </table>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,100:00ADD8&height=120&section=footer" width="100%"/>
